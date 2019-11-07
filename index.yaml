@@ -3,7 +3,7 @@ entries:
   demo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-11-07T17:42:40.039541+01:00"
+    created: "2019-11-07T18:05:52.799538+01:00"
     description: A Helm chart for Kubernetes
     digest: a0818a9b2734beb898d330fe7aae25592510fcfe04e8359f615ffa26f26c509e
     name: demo
@@ -13,11 +13,11 @@ entries:
   demo2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-11-07T17:42:40.039907+01:00"
+    created: "2019-11-07T18:05:52.79989+01:00"
     description: A Helm chart for Kubernetes
-    digest: 83bccfedddcaa767603e19a987d0835feac1d417dd954574895e475043926577
+    digest: 5d6080bb7a9530024c40e57daf7db2d5ae99e19aa70657980f3da2b1b7d1c8f7
     name: demo2
     urls:
-    - https://alcyxob.github.io/myhelm/demo2-0.1.17-snap.tgz
-    version: 0.1.17-snap
-generated: "2019-11-07T17:42:40.037341+01:00"
+    - https://alcyxob.github.io/myhelm/demo2-0.1.18-snap.tgz
+    version: 0.1.18-snap
+generated: "2019-11-07T18:05:52.799032+01:00"
