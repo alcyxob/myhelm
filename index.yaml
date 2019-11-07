@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  demo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-07T14:41:04.457267+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a0818a9b2734beb898d330fe7aae25592510fcfe04e8359f615ffa26f26c509e
+    name: demo
+    urls:
+    - https://alcyxob.github.io/myhelm/demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-07T14:41:04.455702+01:00"
